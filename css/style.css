@@ -380,7 +380,7 @@ footer .container > p {
     display: block !important;
     background: var(--tertiary-color);
     position: absolute;
-    top: 50px;
+    top: 10%;
     left: 0;
     right: 0;
   }
